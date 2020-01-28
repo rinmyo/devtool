@@ -1,0 +1,8 @@
+name: DevTool
+main: dev.glycine.devtool.DevTool
+version: @version@
+api-version: 1.15
+description: tool for development
+author: Satanya
+depend:  [UtopiaLib]
+load: POSTWORLD
